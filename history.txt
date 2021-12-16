@@ -1,3 +1,4 @@
 Hola Mundo, soy Erwin y mi meta es trabajar en Canada,
 Hoy estoy aprendiendo Git, Bienvenida sea la educacion,
-Para alcanzar esa meta debo primero aprender ingles
+Para alcanzar esa meta debo primero aprender ingles,
+ y luego aprender frances
