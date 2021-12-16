@@ -1,1 +1,2 @@
-Hola Mundo, soy Erwin y mi meta es trabajar en Canada
+Hola Mundo, soy Erwin y mi meta es trabajar en Canada,
+Hoy estoy aprendiendo Git
